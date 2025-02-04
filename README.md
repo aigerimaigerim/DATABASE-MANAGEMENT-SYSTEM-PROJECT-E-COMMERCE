@@ -1,3 +1,5 @@
+DATABASE MANAGEMENT SYSTEM PROJECT: E-COMMERCE
+
 Databases are a vital tool for managing and retrieving information for online market systems.
 Online market database consists these four basic tables:
 1) User table - stores all necessary data like personal information, address and etc about users of our online market.
